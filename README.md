@@ -1,17 +1,15 @@
 # Assignment #1
 
 
-## Due Dates
+## Due Date
 
-> **Section 401:** Wednesday, September 20 at 11:59 PM
-> 
-> **Section 402:** Thursday, September 14 at 11:59 PM
+> **Thursday September 21 at 5.15pm**
 
 This week's assignment will be broken into two parts:
 
 ## Part 1: Installing Python locally and launching a Jupyter notebook
 
-Follow the [initial installation guide](https://musa-550-fall-2023.github.io/resource/install.html) on 
+Follow the [initial installation guide](https://musa-550-fall-2024.github.io/resource/install.html) on 
 the course website for instructions on how to set up Python
 locally and launch JupyterLab
 
