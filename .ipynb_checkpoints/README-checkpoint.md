@@ -38,11 +38,9 @@ in a cell:
 pwd
 ```
 
-If you've downloaded the [assignment-1](https://github.com/MUSA-550-Fall-2023/assignment-1) 
+If you've downloaded the [assignment-1](https://github.com/musa-550-fall-2024/assignment1) 
 repository to your computer, it usually makes sense to launch the
-Jupyter notebook from this folder instead of the default folder. You can
-change the start-up folder by first navigating to your assignment folder in
-the command line: see instructions [here](https://musa-550-fall-2023.github.io/resource/jupyter.html#changing-the-jupyterlab-start-up-folder).
+Jupyter notebook from this folder instead of the default folder. 
 
 
 ## Part 2: Exploring the Donut Effect for Philadelphia ZIP codes
