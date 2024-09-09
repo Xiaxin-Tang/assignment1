@@ -5,6 +5,8 @@
 
 > **Thursday September 21 at 5.15pm**
 
+--> ([submission portal on GitHUB](https://classroom.github.com/a/fm9UzLHj))!
+
 This week's assignment will be broken into two parts:
 
 ## Part 1: Installing Python locally and launching a Jupyter notebook
